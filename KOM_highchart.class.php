@@ -1,4 +1,15 @@
 <?php
+/*
+KOM_highchart
+Parser for highcharts
+
+version: 0.1
+
+author: Martin Stoppler
+licence: dowhateveryouwant
+
+*/
+
 
 class KOM_highchart {
     
