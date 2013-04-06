@@ -1,7 +1,7 @@
 <?php
 /*
-KOM_highchart
-Parser for highcharts
+sto-highchart-parser
+simple parser for highcharts
 
 version: 0.1
 
