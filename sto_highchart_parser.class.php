@@ -11,7 +11,7 @@ licence: dowhateveryouwant
 */
 
 
-class sto-highchart-parser {
+class sto_highchart_parser {
     
     private $id;
     public $options;
